@@ -1,6 +1,6 @@
 # CGHack
 
-https://youtu.be/g8Z-vmi0gWU?si=GsiWtHaaepRfLsQS (유튜브: 적용 하는법)
+https://youtu.be/g8Z-vmi0gWU?si=GsiWtHaaepRfLsQS (적용 하는법)
 팀포트리스2 핵 DLL 파일을 숨겨주게 만드는 프로그램 입니다.
 핵 DLL 파일 이름은 반드시 cheat.dll 이여야 합니다, 파일 이름이 다르다면 cheat.dll 로 개명 하시기를 바랍니다.
 치트는 SEOWNED 를 추천합니다.(https://www.unknowncheats.me/forum/team-fortress-2-a/436430-seowned-featured-cheat.html)
